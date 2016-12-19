@@ -1,0 +1,15 @@
+{
+  "name": "chat-starter",
+  "version": "1.0.0",
+  "description": "Starter repository for to demonstrate how to add Twilio Chat to your application Edit",
+  "main": "index.js",
+  "repository": {
+    "url": "git@github.com:dkundel/chat-starter.git",
+    "type": "git"
+  },
+  "author": "Dominik Kundel <dominik.kundel@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
